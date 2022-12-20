@@ -1,0 +1,7 @@
+train: /content/drive/Shareddrives/Gcloud212/License-Plate-detection/data/yolo/train
+val: /content/drive/Shareddrives/Gcloud212/License-Plate-detection/data/yolo/val
+test: /content/drive/Shareddrives/Gcloud212/License-Plate-detection/data/yolo/test
+# number of classes
+nc: 1
+# class names
+names: ["licence"]
